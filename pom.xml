@@ -6,11 +6,11 @@
 
     <groupId>mobi.coursar</groupId>
     <artifactId>mvn-lib</artifactId>
-    <version>1.1</version>
+    <version>2.0</version>
 
     <properties>
-        <maven.compiler.source>15</maven.compiler.source>
-        <maven.compiler.target>15</maven.compiler.target>
+        <maven.compiler.source>16</maven.compiler.source>
+        <maven.compiler.target>16</maven.compiler.target>
     </properties>
 
     <distributionManagement>
